@@ -10,6 +10,7 @@
 
 - [Vue 3 (composition api)](https://v3.ru.vuejs.org/)
 - [Vue Router](https://v3.router.vuejs.org/)
+- [Vuex](https://vuex.vuejs.org/)
 - [Axios](https://ru.vuejs.org/v2/cookbook/using-axios-to-consume-apis)
 - [TailwindCSS](https://tailwindcss.com/)
 
