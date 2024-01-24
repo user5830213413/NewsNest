@@ -35,7 +35,8 @@ python main.py
 ```sh
 cd frontend
 cd vue-project
-cd npm run dev
+npm install
+npm run dev
 ```
 
 ## Функциональные возможности:
