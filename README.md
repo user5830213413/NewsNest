@@ -8,7 +8,7 @@
 
 **Frontend:**
 
-- [Vue 3 (composition api)]()
+- [Vue 3 (composition api)]
 - [Vue Router]()
 - [Axios]()
 - [TailwindCSS]()
